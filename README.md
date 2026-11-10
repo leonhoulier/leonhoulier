@@ -20,6 +20,11 @@ I kept losing track of local servers, so I put each port's project, branch and C
 
 Private application source, [public releases and installer verification](https://github.com/leonhoulier/mast-releases). [How I built it →](https://leonhoulier.com/blog/how-i-built-mast/)
 
+### [WHOOP MCP Server](https://github.com/leonhoulier/whoop-mcp-server)
+An MCP server for querying WHOOP recovery, sleep, strain and workout data through AI tools, with OAuth authentication and token refresh.
+
+An earlier project, with source and setup instructions available. The repository credits [ctvidic](https://github.com/ctvidic) for the initial implementation.
+
 ### [Speed Reader](https://github.com/leonhoulier/speed-reader)
 A Raycast extension for reading selected text, clipboard content and browser pages one word at a time, with keyboard controls and adjustable speed.
 
