@@ -2,6 +2,8 @@
 
 **I work in marketing. I build the software, too.**
 
+[leonhoulier.com](https://leonhoulier.com) — my projects, writing and personal story.
+
 I'm the founder of [The Detail Department](https://detail-department.com), an execution agency for luxury brands. My work spans paid-media operations, measurement and the tools that connect them.
 
 Five years in paid media and adtech at details.ch and Digital Luxury Group. Now building from Bangalore.
@@ -18,13 +20,18 @@ I kept losing track of local servers, so I put each port's project, branch and C
 
 Private application source, [public releases and installer verification](https://github.com/leonhoulier/mast-releases). [How I built it →](https://leonhoulier.com/blog/how-i-built-mast/)
 
-### [AI Media Index](https://github.com/The-Detail-Department/ai-paid-media-tools)
-The Detail Department's comparison of advertising APIs, MCP servers and automation tools. What can they read? What can they change? What still needs a person?
-
-Documentation reviewed unless an entry says otherwise; a readiness label is not proof of a tested workflow. [Explore the index →](https://the-detail-department.github.io/ai-paid-media-tools/)
-
 ### [Speed Reader](https://github.com/leonhoulier/speed-reader)
 A Raycast extension for reading selected text, clipboard content and browser pages one word at a time, with keyboard controls and adjustable speed.
+
+## Reports by The Detail Department
+
+### [The AI Media Index](https://detail-department.com/ai-media-index)
+A comparison of AI-connected tools for advertising, design, analytics and automation: what they can do, how to connect them and where they stop. [Source catalogue →](https://github.com/The-Detail-Department/ai-paid-media-tools)
+
+### [The AI CMS Index](https://detail-department.com/ai-cms-index)
+A guide to CMS and commerce platforms for AI-assisted content work, comparing drafting, editing and publishing capabilities, setup and permissions.
+
+Both indices assess documented capabilities unless an entry says otherwise. Readiness grades are not proof of tested workflows.
 
 ## The agency
 
