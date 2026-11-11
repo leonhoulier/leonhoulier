@@ -1,45 +1,81 @@
-# Léon Houlier
+<a href="https://leonhoulier.com">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero.png">
+    <img src="assets/hero.gif" width="100%" alt="Léon Houlier — Marketing with a terminal. Paid media, software and The Detail Department. Bangalore, India.">
+  </picture>
+</a>
 
-**I work in marketing. I build the software, too.**
+<p align="center">
+  <a href="https://leonhoulier.com"><strong>MY WEBSITE ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://detail-department.com"><strong>THE AGENCY ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://leonhoulier.com/blog/"><strong>WRITING ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/leonhoulier/"><strong>LINKEDIN ↗</strong></a>
+</p>
 
-[leonhoulier.com](https://leonhoulier.com) — my projects, writing and personal story.
+## A marketer with too many repositories.
 
-I'm the founder of [The Detail Department](https://detail-department.com), an execution agency for luxury brands. My work spans paid-media operations, measurement and the tools that connect them.
+I'm Léon. Five years in paid media and adtech at details.ch and Digital Luxury Group. Now in Bangalore, building **[The Detail Department](https://detail-department.com)** and software that scratches very specific itches.
 
-Five years in paid media and adtech at details.ch and Digital Luxury Group. Now building from Bangalore.
+I kept losing track of local servers. That became **Mast**. I wanted AI tools to work with domains, mail and hosting. That's **Infomaniak MCP**. The agency brings the same technical curiosity to campaign operations, measurement and websites for luxury brands.
 
-## Things I've built
+## The workbench
 
-### [Infomaniak MCP](https://github.com/leonhoulier/infomaniak-ai)
-Connect AI tools to domains, mail and hosting. The interesting part is the boundary: scoped access, explicit approval for changes, and a record of what happened.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / Infomaniak MCP</h3>
+<p>Domains, mail and hosting, connected to AI tools. Scoped access and explicit approval for changes.</p>
+<p><strong>OPEN SOURCE · UNOFFICIAL</strong></p>
+<p><a href="https://infomaniak-mcp.com">Try it ↗</a> · <a href="https://github.com/leonhoulier/infomaniak-ai">Read the code ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / Mast</h3>
+<p>Which project owns port 3000? Repositories, ports, branches and CI, in the Mac menu bar.</p>
+<p><strong>MAC APP · PRIVATE SOURCE</strong></p>
+<p><a href="https://usemast.sh">Meet Mast ↗</a> · <a href="https://github.com/leonhoulier/mast-releases">Public releases ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / WHOOP MCP</h3>
+<p>Recovery, sleep, strain and workout data through an MCP server, with OAuth and token refresh.</p>
+<p><strong>EARLIER PROJECT</strong></p>
+<p><a href="https://github.com/leonhoulier/whoop-mcp-server">Source &amp; setup ↗</a><br><sub>Initial implementation credited to <a href="https://github.com/ctvidic">ctvidic</a>.</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 / Speed Reader</h3>
+<p>A Raycast extension. Selected text, clipboard or a browser page, one word at a time.</p>
+<p><strong>RAYCAST · ADJUSTABLE SPEED</strong></p>
+<p><a href="https://github.com/leonhoulier/speed-reader">Read the code ↗</a></p>
+</td>
+</tr>
+</table>
 
-Independent, unofficial and open source. [Setup and current capabilities →](https://infomaniak-mcp.com)
+<a href="https://detail-department.com"><img src="assets/department.png" width="100%" alt="The Detail Department — The execution agency for luxury brands. Campaign operations, measurement, websites and AI implementation."></a>
 
-### [Mast](https://usemast.sh)
-I kept losing track of local servers, so I put each port's project, branch and CI in the Mac menu bar.
+## Two reports. One practical question: what can the tools actually do?
 
-Private application source, [public releases and installer verification](https://github.com/leonhoulier/mast-releases). [How I built it →](https://leonhoulier.com/blog/how-i-built-mast/)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>The AI Media Index</h3>
+<p>Advertising, design, analytics and automation. What connects to AI, what it can change, and where a person still needs to step in.</p>
+<p><a href="https://detail-department.com/ai-media-index"><strong>Explore the report ↗</strong></a> · <a href="https://github.com/The-Detail-Department/ai-paid-media-tools">Sources ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>The AI CMS Index</h3>
+<p>CMS and commerce platforms for AI-assisted content work. Drafting, editing, publishing, permissions and setup.</p>
+<p><a href="https://detail-department.com/ai-cms-index"><strong>Explore the report ↗</strong></a></p>
+</td>
+</tr>
+</table>
 
-### [WHOOP MCP Server](https://github.com/leonhoulier/whoop-mcp-server)
-An MCP server for querying WHOOP recovery, sleep, strain and workout data through AI tools, with OAuth authentication and token refresh.
+<sub>Published by The Detail Department. Documentation reviewed unless an entry says otherwise; readiness grades are not proof of tested workflows.</sub>
 
-An earlier project, with source and setup instructions available. The repository credits [ctvidic](https://github.com/ctvidic) for the initial implementation.
+## Bangalore, let's build something.
 
-### [Speed Reader](https://github.com/leonhoulier/speed-reader)
-A Raycast extension for reading selected text, clipboard content and browser pages one word at a time, with keyboard controls and adjustable speed.
+I'm keen to meet frontend and Shopify developers who care about the details: typography, motion, accessibility and fast storefronts. **[Show me something you've made.](mailto:leon@detail-department.com)**
 
-## Reports by The Detail Department
+[More projects, writing and the personal story → **leonhoulier.com**](https://leonhoulier.com)
 
-### [The AI Media Index](https://detail-department.com/ai-media-index)
-A comparison of AI-connected tools for advertising, design, analytics and automation: what they can do, how to connect them and where they stop. [Source catalogue →](https://github.com/The-Detail-Department/ai-paid-media-tools)
-
-### [The AI CMS Index](https://detail-department.com/ai-cms-index)
-A guide to CMS and commerce platforms for AI-assisted content work, comparing drafting, editing and publishing capabilities, setup and permissions.
-
-Both indices assess documented capabilities unless an entry says otherwise. Readiness grades are not proof of tested workflows.
-
-## The agency
-
-[The Detail Department](https://github.com/The-Detail-Department) runs campaign operations, tagging and analytics, and website maintenance for luxury teams.
-
-[The agency →](https://detail-department.com) · [Writing →](https://leonhoulier.com/blog/) · [Get in touch →](mailto:leon@detail-department.com)
+<sub>Made with Love and AI in Bangalore, India.</sub>
