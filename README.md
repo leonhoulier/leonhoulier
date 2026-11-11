@@ -1,9 +1,4 @@
-<a href="https://leonhoulier.com">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero.png">
-    <img src="assets/hero.gif" width="100%" alt="Léon Houlier — Marketing with a terminal. Paid media, software and The Detail Department. Bangalore, India.">
-  </picture>
-</a>
+<a href="https://leonhoulier.com"><img src="assets/hero.png" width="100%" alt="Léon Houlier. I build brands, software, and the systems that help them grow."></a>
 
 <p align="center">
   <a href="https://leonhoulier.com"><strong>MY WEBSITE ↗</strong></a> &nbsp; / &nbsp;
@@ -12,13 +7,13 @@
   <a href="https://www.linkedin.com/in/leonhoulier/"><strong>LINKEDIN ↗</strong></a>
 </p>
 
-## A marketer with too many repositories.
+## Léon Houlier
 
-I'm Léon. Five years in paid media and adtech at details.ch and Digital Luxury Group. Now in Bangalore, building **[The Detail Department](https://detail-department.com)** and software that scratches very specific itches.
+I'm Léon. Five years in paid media and adtech at details.ch and Digital Luxury Group. Now in Bangalore, building **[The Detail Department](https://detail-department.com)** and software of my own.
 
 I kept losing track of local servers. That became **Mast**. I wanted AI tools to work with domains, mail and hosting. That's **Infomaniak MCP**. The agency brings the same technical curiosity to campaign operations, measurement and websites for luxury brands.
 
-## The workbench
+## Selected work
 
 <table>
 <tr>
@@ -51,9 +46,18 @@ I kept losing track of local servers. That became **Mast**. I wanted AI tools to
 </tr>
 </table>
 
-<a href="https://detail-department.com"><img src="assets/department.png" width="100%" alt="The Detail Department — The execution agency for luxury brands. Campaign operations, measurement, websites and AI implementation."></a>
+<a href="https://detail-department.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/department-mark-dark.svg">
+    <img src="assets/department-mark.svg" width="100" alt="The Detail Department">
+  </picture>
+</a>
 
-## Two reports. One practical question: what can the tools actually do?
+## The Detail Department
+
+The execution agency for luxury brands. Campaign operations, measurement, websites and AI implementation. [Explore the agency →](https://detail-department.com)
+
+### Reports from the Department
 
 <table>
 <tr>
@@ -77,5 +81,9 @@ I kept losing track of local servers. That became **Mast**. I wanted AI tools to
 I'm keen to meet frontend and Shopify developers who care about the details: typography, motion, accessibility and fast storefronts. **[Show me something you've made.](mailto:leon@detail-department.com)**
 
 [More projects, writing and the personal story → **leonhoulier.com**](https://leonhoulier.com)
+
+<p><img src="assets/signature.svg" width="210" alt="Léon’s original handwritten signature"></p>
+
+### Kindest, Léon.
 
 <sub>Made with Love and AI in Bangalore, India.</sub>
