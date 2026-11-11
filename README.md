@@ -1,9 +1,10 @@
-<a href="https://leonhoulier.com"><img src="assets/hero.png" width="100%" alt="Léon Houlier. I build brands, software, and the systems that help them grow."></a>
+<a href="https://leonhoulier.com"><img src="assets/hero.png" width="100%" alt="Léon Houlier — Marketing, Software, Bangalore"></a>
 
 <p>
   <a href="https://leonhoulier.com"><img src="assets/buttons/website.png" width="176" height="44" alt="Visit my website"></a>
   <a href="https://leonhoulier.com/projects/"><img src="assets/buttons/projects.png" width="126" height="44" alt="Projects"></a>
-  <a href="https://leonhoulier.com/blog/"><img src="assets/buttons/writing.png" width="110" height="44" alt="Writing"></a>
+  <a href="https://x.com/leonhoulier"><img src="assets/buttons/x.png" width="78" height="44" alt="Léon on X"></a>
+  <a href="https://www.instagram.com/leonhoulier/"><img src="assets/buttons/instagram.png" width="148" height="44" alt="Léon on Instagram"></a>
   <a href="https://www.linkedin.com/in/leonhoulier/"><img src="assets/buttons/linkedin.png" width="128" height="44" alt="LinkedIn"></a>
 </p>
 
@@ -42,13 +43,6 @@ Five years in paid media and adtech at details.ch and Digital Luxury Group. Now 
 </tr>
 </table>
 
-<a href="https://detail-department.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/department-mark-dark.svg">
-    <img src="assets/department-mark.svg" width="100" alt="The Detail Department">
-  </picture>
-</a>
-
 ## The Detail Department
 
 The execution agency for luxury brands. Campaign operations, measurement, websites and AI implementation. 
@@ -72,9 +66,5 @@ The execution agency for luxury brands. Campaign operations, measurement, websit
 I'm keen to meet frontend and Shopify developers who care about the details: typography, motion, accessibility and fast storefronts. <a href="mailto:leon@detail-department.com">Show me something you’ve made.</a>
 
 <p><a href="mailto:leon@detail-department.com"><img src="assets/buttons/contact.png" width="154" height="44" alt="Get in touch with Léon"></a></p>
-
-<p><img src="assets/signature.svg" width="210" alt="Léon’s original handwritten signature"></p>
-
-### Kindest, Léon.
 
 <sub>Made with Love and AI in Bangalore, India.</sub>
